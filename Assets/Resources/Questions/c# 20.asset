@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a51e6e1898cfa489432d211b0e2ad9, type: 3}
+  m_Name: c# 20
+  m_EditorClassIdentifier: 
+  question: Which of the following is the correct about interfaces in C#?
+  answers:
+  - Interfaces are declared using the interface keyword.
+  - Interface methods are public by default.
+  - Interfaces represents a group of constants.
+  - All the above.
+  correctAnswer: 3

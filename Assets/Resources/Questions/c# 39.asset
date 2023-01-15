@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a51e6e1898cfa489432d211b0e2ad9, type: 3}
+  m_Name: c# 39
+  m_EditorClassIdentifier: 
+  question: Why contains C# Math class?
+  answers:
+  - The C# Math class has many other classes that allows you to perform logical tasks
+    on data types.
+  - The C# Math class has constructors that allows you create objects for math operations.
+  - The C# Math class has many methods that allows you to perform mathematical tasks
+    on numbers.
+  - None of the above.
+  correctAnswer: 2
